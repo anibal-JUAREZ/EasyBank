@@ -2,4 +2,4 @@ Responsive
 
 Mobile:375px
 
-design available in the design folder
+The design was given by the Frontend Mentor website and it is available in the design folder
